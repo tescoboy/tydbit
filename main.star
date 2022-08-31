@@ -13,4 +13,3 @@ def main():
     return render.Root(
         child = render.Text("BTC: %d USD" % rate)
     )
-Footer
